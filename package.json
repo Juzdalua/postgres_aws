@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Juzdalua/postgres_aws#readme",
   "dependencies": {
     "express": "^4.17.2",
+    "pg": "^8.7.1",
     "pm2": "^5.1.2"
   },
   "devDependencies": {
