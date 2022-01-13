@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Juzdalua/postgres_aws.git"
   },
-  "author": "",
+  "author": "Juzdalua",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Juzdalua/postgres_aws/issues"
