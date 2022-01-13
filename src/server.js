@@ -85,10 +85,10 @@ app.get("/3", async(req, res) => {
     // });
     // console.log(amy)
 
-    const json = await Model.findOne({
-        where:{id:1}
-    });
-    console.log(json)
+    // const json = await Model.findOne({
+    //     where:{id:1}
+    // });
+    // console.log(json)
 
 });
 
